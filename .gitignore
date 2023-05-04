@@ -1,3 +1,5 @@
 .terraform
 .terraform.lock.hcl
 /tmp
+.DS_Store
+/modules/cloud/function/package-lock.json
